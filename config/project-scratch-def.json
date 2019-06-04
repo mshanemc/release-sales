@@ -2,7 +2,11 @@
     "orgName": "release",
     "description": "sales",
     "template": "0TTB0000000eERC",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+    "adminEmail": "platformpmmdemos@gmail.com",
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "selfSetPasswordInApi": true
+        }
     }
 }
