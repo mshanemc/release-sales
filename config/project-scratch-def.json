@@ -1,7 +1,7 @@
 {
     "orgName": "release",
     "description": "sales",
-    "template": "0TTB0000000aP4x",
+    "template": "0TTB0000000eERC",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }
