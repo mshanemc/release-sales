@@ -1,8 +1,8 @@
 {
     "orgName": "release",
     "description": "sales",
+    "template": "0TTB0000000eERC",
     "adminEmail": "platformpmmdemos@gmail.com",
-    "template": "0TTB0000000eEIm",
     "settings": {
         "orgPreferenceSettings": {
             "s1DesktopEnabled": true,
