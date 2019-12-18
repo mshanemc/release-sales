@@ -1,12 +1,16 @@
 {
-    "orgName": "release",
-    "description": "sales",
-    "template": "0TTB0000000u6VO",
-    "adminEmail": "platformpmmdemos@gmail.com",
-    "settings": {
-        "orgPreferenceSettings": {
-            "s1DesktopEnabled": true,
-            "selfSetPasswordInApi": true
-        }
+  "orgName": "release",
+  "description": "sales",
+  "template": "0TTB0000000u6VO",
+  "adminEmail": "platformpmmdemos@gmail.com",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
     }
+  }
 }
